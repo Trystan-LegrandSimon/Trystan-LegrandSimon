@@ -113,7 +113,7 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trystan-legrandsimon&show_icons=true&locale=en&layout=compact" alt="trystan- legrandsimon" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=trystan-legrandsimon&show_icons=true&locale=en&layout=compact" alt="trystan- legrandsimon" />
 </p>
 
 <p>
@@ -121,5 +121,5 @@
 </p>
 
 <p>
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=trystan-legrandsimon&" alt= "trystan-legrandsimon" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trystan-legrandsimon&" alt= "trystan-legrandsimon" />
 </p>
