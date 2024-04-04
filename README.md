@@ -110,16 +110,16 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a> 
-</p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=trystan-legrandsimon&show_icons=true&locale=en&layout=compact" alt="trystan- legrandsimon" />
-</p>
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=trystan-legrandsimon&show_icons=true&locale=en&layout=compact" alt="trystan- legrandsimon" />
+  </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=trystan-legrandsimon&show_icons=true&locale=en" alt ="trystan-legrandsimon" />
-</p>
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=trystan-legrandsimon&show_icons=true&locale=en" alt ="trystan-legrandsimon" />
+  </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trystan-legrandsimon&" alt= "trystan-legrandsimon" />
+  <p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trystan-legrandsimon&" alt= "trystan-legrandsimon" />
+  </p>
 </p>
