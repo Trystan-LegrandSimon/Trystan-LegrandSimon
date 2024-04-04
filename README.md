@@ -1,7 +1,7 @@
 <h1 align="center">Bonjour 👋, je m'appelle Trystan LEGRAND-SIMON</h1>
 <h3 align="center">Passionné et Compétent en Administration Systèmes et Réseaux, je suis actuellement à la recherche d'une Alternance pour Septembre 2024.</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=trystan-legrandsimon&label=Profile%20views&color=0e75b6&style=flat" alt="trystan-legrandsimon" />
 </p>
 
@@ -17,9 +17,9 @@
   </a>
 </p >
 
-<h3 align="left">Langues et outils :</h3>
+<h3 align="center">Langues et outils :</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
   </a>
