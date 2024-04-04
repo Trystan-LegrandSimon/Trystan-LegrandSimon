@@ -1,11 +1,11 @@
 <h1 align="center">Bonjour 👋, je m'appelle Trystan LEGRAND-SIMON</h1>
-<h3 align="center">Passionné et compétent en Administration Systèmes et Réseaux, je suis actuellement à la recherche d'un stage pour septembre 2024.</h3>
+<h3 align="center">Passionné et Compétent en Administration Systèmes et Réseaux, je suis actuellement à la recherche d'une Alternance pour Septembre 2024.</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=trystan-legrandsimon&label=Profile%20views&color=0e75b6&style=flat" alt="trystan-legrandsimon" />
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Trystan-LegrandSimon" alt="Trystan-LegrandSimon" />
   </a>
